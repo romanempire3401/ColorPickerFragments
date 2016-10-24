@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasicFragments</string>
+    <string name="activity_label">Selector de Color</string>
+    <string name="default_details_message">Seleccionar un Color</string>
+    <array name="colors">
+        <item>Rojo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Cian</item>
+        <item>Gris Oscuro</item>
+        <item>Blanco</item>
+        <item>Amarillo</item>
+        <item>Magenta</item>
+    </array>
+</resources>
